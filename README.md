@@ -1,1 +1,1 @@
-# tabloid_newspaper-image_analytics
+# tabloid newspaper - image analytics
